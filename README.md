@@ -1,6 +1,6 @@
 # Kenny Chen
 
-kennygchen@yahoo.com | [LinkedIn](https://www.linkedin.com/in/kennygchen/) 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kennygchen/) 
 
 👋 Hello! I'm a passionate software engineer with experience in web development, backend APIs, and game design. I hold a Bachelor’s in Computer Science from UC Riverside and am currently pursuing a Master’s in Software Engineering at UC Irvine.
 
