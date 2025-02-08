@@ -6,8 +6,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/kennygchen/)
 
 ---
 
-- **Programming Languages**: Python, JavaScript, C++, C#, Java, SQL
-- **Tools & Frameworks**: Next.js, React.js, Vue.js, Git, Visual Studio, Unity
+- **Programming Languages**: Python, Java, JavaScript, TypeScript, C++, C#, SQL
+- **Tools & Frameworks**: React.js, Next.js, Vue.js, JUnit, Git, Visual Studio, Unity, Webpack
 
 
 Thank you for checking out my GitHub portfolio! Feel free to explore my projects and connect with me!
